@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\lwalsh.lwalsh-7\source\repos\mazeprojfinal\project7\source.cpp(17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\lwalsh.lwalsh-7\source\repos\mazeprojfinal\project7\source.cpp(34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\lwalsh.lwalsh-7\source\repos\mazeprojfinal\project7\source.cpp(38): warning C4101: 'Gmaze': unreferenced local variable
+  Project7.vcxproj -> C:\Users\LWalsh.LWALSH-7\source\repos\MazeProjFINAL\Debug\Project7.exe
